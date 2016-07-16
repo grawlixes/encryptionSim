@@ -1,0 +1,31 @@
+This is a very simple program I made to simulate a piece of
+password encryption software. When a company like Twitter
+or Facebook stores usernames and passwords in their
+databases, they don't store the passwords in plain text.
+If they did that, and a hacker gained access to one of
+these databases, it would be catastrophic!
+
+So, instead of storing passwords in plain text, these
+companies run their users' passwords through encryption
+software, and store these encrypted "hashed strings" in
+their databases instead. When a user enters their password,
+the submitted password is also put through encryption and
+is compared to the hashed string that the website has
+stored in the database. If it matches, access is granted.
+
+This is a short explanation, and this program is certianly
+not meant to stack up to an actual piece of encryption
+software. It's just meant to help you learn something. To
+clarify, press 'a' and enter a password in plain text, then
+copy the hashed string that the program gives you. Press 'b'
+to enter a hashed string, paste the hashed string tht you
+copied in, and you should receive the original password that
+you typed!
+
+Please let me know of any questions, comments, or concerns
+that you have with this program, ESPECIALLY if any of
+this information is incorrect or inaccurate! Thank you!
+
+P.S. Due to the simplicity of this program's encryption
+algorithm, it is flawed in one way that I'd rather not bother
+to explain here, so ask me about it if you're interested.
