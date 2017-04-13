@@ -6,3 +6,5 @@ program properly, as the .py file reads from the text document if you choose opt
 
 I'm really sorry if this is laid out in a confusing way - this website is so strange with how things are uploaded and shared, and
 I got confused.
+
+EDIT 04/13/2017 - it's not that confusing. I was just dumb.
